@@ -6,10 +6,9 @@ This is a repo create to show my assessment for flutter
 
 ## Screenshot Demo
 
-<div style="display: flex; flex-direction: row;">
   ![photo_2024-07-24_12-52-48](https://github.com/user-attachments/assets/0233c486-e837-42c3-93a7-f4adfbc942d9)
   ![photo_2024-07-24_12-52-32](https://github.com/user-attachments/assets/0a18c01b-8206-4da2-8e3d-0eb83bfc3c8f)
-</div>
+
 
 ## Features Added:
   - Add to Cart Functionality
